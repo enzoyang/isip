@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.2.1.6466
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "isip", "isip\isip.pyproj", "{A254F26C-F7FF-4E7E-93B5-4FBBF8D7C2C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A254F26C-F7FF-4E7E-93B5-4FBBF8D7C2C4}.Debug|x86.Build.0 = Debug|x86
+		{A254F26C-F7FF-4E7E-93B5-4FBBF8D7C2C4}.Debug|x86.ActiveCfg = Debug|x86
+		{A254F26C-F7FF-4E7E-93B5-4FBBF8D7C2C4}.Release|x86.Build.0 = Release|x86
+		{A254F26C-F7FF-4E7E-93B5-4FBBF8D7C2C4}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
