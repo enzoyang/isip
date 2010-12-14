@@ -3,8 +3,8 @@ clr.AddReference('System.Windows.Forms')
 clr.AddReference('System.Drawing')
 
 from System.Windows.Forms import Application
-import MainForm
+import FrmLogin
 
 Application.EnableVisualStyles()
-form = MainForm.MainForm()
+form = FrmLogin.FrmLogin()
 Application.Run(form)

@@ -39,7 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainForm.py" />
+    <Compile Include="FrmLogin.py" />
     <Compile Include="Program.py" />
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.py</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
 </Project>
